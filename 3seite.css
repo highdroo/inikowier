@@ -1,0 +1,61 @@
+body {
+    background-image: url(handballarena.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+header {
+    border: black 2px solid;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    height: 100px;
+    display: block;
+    box-shadow: 14px -3px 12px -3px rgba(0, 0, 0, 0.55);
+
+}
+
+.beschriftung {
+    display: flex;
+    justify-content: center;
+}
+
+.navbar {
+    display: flex;
+    justify-content: right;
+    align-items: baseline;
+
+}
+
+.link {
+    color: white;
+    margin-right: 10px;
+    text-decoration: underline dotted;
+}
+.tabelle{
+    width:700px;
+    display: flex;
+    margin-left: 200px;
+    
+}
+.bildtabelle{
+   
+}
+.gründungtext{
+    margin-left:150px;
+    width:600px;
+}
+h2{
+ font-size: 30px;
+}
+.text{
+    font-size: 20px;
+    width:300px;
+}
+.bild2{
+    width:700px;
+}
+.gründungtext2{
+    margin-left:200px;
+    width:600px;
+}

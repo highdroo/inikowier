@@ -1,0 +1,48 @@
+
+
+   body { 
+   background-color:#ffe7a6;
+   }
+
+ 	
+	head
+	nav,
+	main,
+	article,
+	section,
+	aside,
+	footer {
+		
+		border: 1px solid;
+		padding: 10px;
+		margin: 10px;
+	}
+	 
+   
+   h1 {
+	   font-family:'Comic Sans MS'; 
+	   color:White;
+	   text-align: center;   }
+	   
+	h3 {
+	   font-family:'Comic Sans MS'; color:blue;
+	   text-align: center;   }   
+
+   .hs{
+	font-size:50px;
+   }
+   .bild1{
+	border-radius:20%;
+	border:black 2px solid;
+   }
+   .side{
+	display:flex;
+	justify-content: space-between;
+   }
+   .bild2{
+	border-radius:30%;
+	border:black 2px solid;
+	height:200px;
+   }
+
+  
